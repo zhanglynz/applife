@@ -1,0 +1,11 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+---
+
+
+我的中文博客.
+
+文章本天成, 妙手偶得之.

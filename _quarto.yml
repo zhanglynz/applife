@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs  # For GitHub Pages deployment
+
+website:
+  title: "品"
+  navbar:
+    right:
+      - text: "博客"
+        file: index.qmd
+      - text: "链接"
+        href: https://larryzhangnz.netlify.app/
+format:
+  html:
+    theme: 
+      - cosmo  # Or other clean theme
+      - brand
+    css: styles.css
+
