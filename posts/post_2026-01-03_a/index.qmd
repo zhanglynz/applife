@@ -2,6 +2,7 @@
 title: "人生模型"
 author: "张凌云"
 date: "2025-01-03"
+date-format: "YYYY-MM-DD"
 categories: [内心感悟]
 ---
 

@@ -1,0 +1,11 @@
+---
+title: "家庭老照片2"
+author: "张凌云"
+date: "2026-01-05"
+data-format: "YYYY-MM-DD"
+categories: [人文]
+---
+
+
+
+![2012-12-16](IMG_1183.JPG)

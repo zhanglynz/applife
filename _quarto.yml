@@ -12,8 +12,12 @@ website:
         href: https://larryzhangnz.netlify.app/
 format:
   html:
+    date-format: "YYYY-MM-DD"
     theme: 
       - cosmo  # Or other clean theme
       - brand
     css: styles.css
+    
+blog:
+  date-format: "YYYY-MM-DD"    
 
