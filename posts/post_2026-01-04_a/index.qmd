@@ -1,9 +1,9 @@
 ---
-title: "家庭老照片"
+title: "家庭老照片-1"
 author: "张凌云"
 date: "2026-01-04"
 date-format: "YYYY-MM-DD"
-categories: [人文]
+categories: [家庭]
 ---
 
 
